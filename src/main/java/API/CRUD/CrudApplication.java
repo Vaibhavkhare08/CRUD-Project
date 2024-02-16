@@ -10,7 +10,8 @@ public class CrudApplication {
 		
 		SpringApplication.run(CrudApplication.class,args);
 		//hello mann this is my comment
-	
+		
+		//this line should be removed
 	}
 
 }
